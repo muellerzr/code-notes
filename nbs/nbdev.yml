@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "code_notes"
+  site-url: "https://muellerzr.github.io/code_notes/"
+  description: "My own note taking annotation made open source"
+  repo-branch: master
+  repo-url: "https://github.com/muellerzr/muellerzr/code-notes/"
