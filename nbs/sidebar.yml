@@ -4,3 +4,4 @@ website:
       - index.ipynb
       - 00_core.ipynb
       - 99_poc.ipynb
+      - test.ipynb
